@@ -1,7 +1,7 @@
 
 #print("Digite o nome do seu jogador")
 
-#nickname = "Bundinha peluda"
+#nickname = "Malagodi"
 
 #print("Bem vindo " + nickname)
 #print(nickname + " entrou no servidor")
