@@ -1,10 +1,10 @@
 
-#print("Digite o nome do seu jogador")
+print("Digite o nome do seu jogador")
 
-#nickname = "Malagodi"
+nickname = "Malagodi"
 
-#print("Bem vindo " + nickname)
-#print(nickname + " entrou no servidor")
+print("Bem vindo " + nickname)
+print(nickname + " entrou no servidor")
 
 ############ ABA 2 ##################
 
