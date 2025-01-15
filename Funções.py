@@ -33,3 +33,14 @@ def torrar1(pao, nome = "cliente"):
 
 
 torrar1("Pão frances " , "Malagodi")
+
+## O que são parâmetros de uma função? ##
+# Valores que podem ser passados para a função quando ela é chamada e que permitem que a função
+# realize operações com esses valores
+
+## Quantos parâmetros uma função pode receber? ##
+# Geralmente não há um limite fixo  #
+
+## Qual é a principal vantagem de usar funções que recebem parâmetros? ##
+# Reutilização da mesma lógica da função com diferentes valores de entrada #
+
