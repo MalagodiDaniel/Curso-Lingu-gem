@@ -65,3 +65,10 @@ if __name__ == "__main__":
 # Dentro da função, o método .split(split_char) divide a string name em uma lista de partes com base no caractere fornecido em split_char.
 # O índice [0] acessa o primeiro elemento da lista, que corresponde ao primeiro nome.
 # A função retorna este primeiro nome.
+
+
+## Qual é o principal objetivo de usar funções com retorno em JavaScript?
+# Obter um resultado específico ou um valor calculado a partir da função
+
+# O que é o valor de retorno de uma função ?
+# Um valor que a função produz como saída após ser executada
